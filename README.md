@@ -41,8 +41,8 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
  You can find the demo on netlify 
-- i learned how a developer can adopt both flexbox and grid on the same projects.
- This projects help me alot to think on how to place my HTML codes correctly, i also learnt using material icon on the course of this projects
+-  I learned how a developer could adopt both flexbox and grid on the same projects.
+ These projects help me a lot to think about how to place my HTML codes correctly, I also learned to use material icons in the course of these projects.
 
 ### Built With
 
