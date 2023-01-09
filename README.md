@@ -10,7 +10,6 @@
     <a href="https://{dulcet-biscochitos-742468.netlify.app}">
       Demo
     </a>
-
     <span> | </span>
     <a href="https://{your-url-to-the-solution}">
       Solution
